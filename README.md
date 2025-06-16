@@ -35,7 +35,7 @@
 ## 📦 Installation
 
 # 🌀 Clone the repository
-git clone https://github.com/your-username/gym-buddy.git
+git clone https://github.com/hardikbatra07/gym-buddy.git
 cd gym-buddy
 
 # 🔧 Install server dependencies
