@@ -6,13 +6,17 @@
 
 ## 🚀 Features
 
-- 🧑‍💼 User Authentication (JWT-based)
-- 📋 Create and Manage Custom Workout Plans
-- 📅 Schedule Workouts and Set Reminders
-- 📈 Track Progress (sets, reps, weight, etc.)
-- 🔍 Explore Built-in Exercise Library
-- 📊 Dashboard with Performance Analytics
-- 💬 Community Tips (optional future feature)
+🔐 Secure User Authentication
+Sign up and log in with protected routes using JWT-based authentication.
+
+🏋️ Create Workout Plans
+Users can build custom workout plans tailored to their fitness goals.
+
+➕ Add Workout Details
+Easily input exercise details like sets, reps, weight, and more.
+
+📊 Track Your Progress
+Visualize and manage your workout history to monitor improvements over time.
 
 ---
 
